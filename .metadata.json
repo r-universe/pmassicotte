@@ -1,0 +1,14 @@
+[
+  {
+    "package": "cdom",
+    "oncran": true
+  },
+  {
+    "package": "eemR",
+    "oncran": true
+  },
+  {
+    "package": "gtrendsR",
+    "oncran": true
+  }
+]
