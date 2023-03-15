@@ -1,6 +1,6 @@
 [
   {
-    "package": "gtrendsR",
+    "package": "cdom",
     "oncran": true
   },
   {
@@ -8,7 +8,7 @@
     "oncran": true
   },
   {
-    "package": "cdom",
+    "package": "gtrendsR",
     "oncran": true
   }
 ]
